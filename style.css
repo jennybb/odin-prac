@@ -1,0 +1,112 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 60px;
+    padding-right: 60px;
+    background-color: #C3AAA6;
+    align-items: center;
+    color: white;
+    font-weight: bold;
+    height: 35px;
+    font-size: 15px;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    font-weight: bold;
+    
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.section1 {
+    background-color: #C3AAA6;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    padding: 30px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.title1 {
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+.sign-up-button {
+    background-color: #976666;
+    color: white;
+    font-weight: bold;
+    border: none;
+    width: 100px;
+    height: 30px;
+}
+
+.title2 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.container2 {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.section3 {
+    background-color: #F2EEED;
+    padding: 35px;
+    padding-left: 450px;
+    padding-right: 450px;
+}
+
+.quote.text {
+    font-size: 20px;
+    font-family: italic;
+    color: #A8A8A8;
+    font-weight: lighter;
+}
+
+.quote.author {
+    font-weight: bold;
+    font-size: 15px;
+    text-align: end;
+}
+
+.section4 {
+    background-color: #976666;
+    color: white;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 15px;
+}
+
+.sign-up-button-2 {
+    background-color: #976666;
+    color: white;
+    border: 2px solid white;
+    border-radius: 15px;
+    width: 80px;
+    height: 30px;
+}
